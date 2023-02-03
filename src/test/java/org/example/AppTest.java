@@ -11,6 +11,7 @@ public class AppTest
     public static void main(String []args){
 
         String str="Suraj";
+        String str2="Ashok";
         System.out.println(str);
 
 
