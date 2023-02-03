@@ -13,6 +13,7 @@ public class AppTest
         String str="Suraj";
         String str2="Ashok";
         String str3="kadav";
+        String feature="Test";
         System.out.println(str);
 
 
