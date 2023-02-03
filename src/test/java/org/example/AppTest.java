@@ -17,10 +17,8 @@ public class AppTest
         String feature2="Test2";
         String feature3="Test";
         int a=20;
+        int b=10;
         System.out.println(str);
-
-
-
     }
 
 
