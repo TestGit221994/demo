@@ -14,6 +14,7 @@ public class AppTest
         String str2="Ashok";
         String str3="kadav";
         String feature="Test";
+        String feature2="Test2";
         System.out.println(str);
 
 
