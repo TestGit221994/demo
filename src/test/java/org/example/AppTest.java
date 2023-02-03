@@ -18,6 +18,7 @@ public class AppTest
         String feature3="Test";
         int a=20;
         int b=10;
+        int c=30;
         System.out.println(str);
     }
 
