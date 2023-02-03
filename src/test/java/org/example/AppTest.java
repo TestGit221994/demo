@@ -19,6 +19,7 @@ public class AppTest
         int a=20;
         int b=10;
         int c=30;
+        int a=40;
         System.out.println(str);
     }
 
